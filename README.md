@@ -9,7 +9,7 @@
 "Hi! My name is Anh Tran (she/her). I am a SAHM who is looking to advance my skills and knowledge in programming."
   
   </span>
-  <img src="IMG_0950.jpeg" align="left"/>
+  <img src="IMG_2025.jpeg" align="left"/>
   <p align="right">
       <h3> tech my stack </h3> </br>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
