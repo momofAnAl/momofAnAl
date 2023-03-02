@@ -9,7 +9,7 @@
 "Hi! My name is Anh Tran (she/her). I am a SAHM who is looking to advance my skills and knowledge in programming."
   
   </span>
-  <img src="IMG_2025.png" 
+  <img src="IMG_2025.jpeg" 
      width="400" 
      height="500" />
   <p align="right">
