@@ -19,10 +19,12 @@
       <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
       <img src="https://img.shields.io/badge/-pygame-purple?style=for-the-badge"/>
    </p>
-      
-      
+   
 </div> </br>
+  <a href="https://realpython.com/certificates/cddcd90c-c2a4-420b-9f92-44ec24164e64/">Building a Site Connectivity Checker on Real Python</a> 
+  
+  <a href="https://realpython.com/certificates/cbeb09dc-2b30-4e15-9e8c-360b311765f6/">Using Pygame to Build an Asteroids Game in Python on Real Python</a>
+
 
 ### Connect with me! 💬
-
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://www.linkedin.com/in/annieyentran/)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/momofAnAl) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png" title="Mail me">](mailto:anhtr077@gmail.com)
