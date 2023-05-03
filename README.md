@@ -6,9 +6,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1500&color=B0CA0D&width=435&lines=Anh+Yen+Tran" alt="Typing SVG" /></a>
   </p>
 
-"Hi, my name is Anh Tran and I am a stay-at-home mom with a passion for programming. As I try to balance taking care of my kids with pursuing my interest in tech, I am constantly searching for resources and opportunities to improve my skills and knowledge.
-  
-  While I have faced some challenges in finding a bootcamp or program that works well for my needs and find an internship after graduation, I am determined to keep searching and to make the most of the resources that are available to me. I am excited to continue learning and growing as a programmer, and I am grateful for any support or guidance that I can receive along the way."
+"Hi, my name is Anh Tran and I am a stay-at-home mom with a passion for programming. As I try to balance taking care of my kids with pursuing my interest in tech, I am constantly searching for resources and opportunities to improve my skills and knowledge. I have experience in data structures and algorithms, object-oriented programming languages. I am excited to continue learning and growing as a programmer, and I am grateful for any support or guidance that I can receive along the way.”
   
   </span>
   <img src="IMG_2025.jpeg" 
