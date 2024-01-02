@@ -27,5 +27,5 @@
 
 
 ### Connect with me! 💬
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://www.linkedin.com/in/annieyentran/)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/momofAnAl) [<img src="https://img.icons8.com/bubbles/100/null/new-post.png"/>](mailto:anhtr077@gmail.com)
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://www.linkedin.com/in/anhtran077/)  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/momofAnAl) [<img src="https://img.icons8.com/bubbles/100/null/new-post.png"/>](mailto:anhtr077@gmail.com)
 
