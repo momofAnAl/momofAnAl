@@ -10,8 +10,8 @@
   
   </span>
   <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" 
-     width="400" 
-     height="300" />
+     width="350" 
+     height="250" />
   <p align="right">
       <h3> tech my stack </h3> </br>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
