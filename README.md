@@ -6,12 +6,12 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1500&color=B0CA0D&width=435&lines=Anh+Yen+Tran" alt="Typing SVG" /></a>
   </p>
 
-"Hi, my name is Anh Tran and I am a stay-at-home mom with a passion for programming. As I try to balance taking care of my kids with pursuing my interest in tech, I am constantly searching for resources and opportunities to improve my skills and knowledge. I have experience in data structures and algorithms, object-oriented programming languages. I am excited to continue learning and growing as a programmer, and I am grateful for any support or guidance that I can receive along the way.”
+"Hi, my name is Anh Tran and I am a stay-at-home mom with a passion for programming. As I try to balance taking care of my kids with pursuing my interest in tech, I am constantly searching for resources and opportunities to improve my skills and knowledge. I have experience in data structures and algorithms. I am excited to continue learning and growing as a programmer, and I am grateful for any support or guidance that I can receive along the way.”
   
   </span>
-  <img src="IMG_2025.jpeg" 
+  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" 
      width="400" 
-     height="500" />
+     height="300" />
   <p align="right">
       <h3> tech my stack </h3> </br>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
